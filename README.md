@@ -1,2 +1,2 @@
 # DCCI4DEM
-Edge-directed image upsamling for Digital Elevation Models (DEM).
+Edge-directed image upsampling for Digital Elevation Models (DEM).
